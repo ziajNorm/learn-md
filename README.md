@@ -1,15 +1,14 @@
-<details>
   <summary><h3>BackEnd Projects:</h3></summary>
 
   <div style="overflow-x: auto;">
     <table>
       <tr>
-        <th style="width: 100%">Projects Name</th>
-        <th style="width: 100%">Project Description</th>
-        <th style="width: 100%">Features</th>
-        <th style="width: 100%">Built With</th>
-        <th style="width: 100%">Architecture</th>
-        <th style="width: 100%">Source Code</th>
+        <th>Projects Name</th>
+        <th>Project Description</th>
+        <th>Features</th>
+        <th>Built With</th>
+        <th>Architecture</th>
+        <th>Source Code</th>
       </tr>
       <tr>
         <td>E-Wallets</td>
@@ -20,9 +19,9 @@
         <td>[Link](#)</td>
       </tr>
       <tr>
-        <td>TodoLists</td>
-        <td>This REST API was developed as part of learning...</td>
-        <td>
+        <td style="width: 1000px">TodoLists</td>
+        <td style="width: 1000px">This REST API was developed as part of learning...</td>
+        <td style="width: 1000px">
           - Pengguna dapat menambah tugas/kegiatan<br>
           - Pengguna dapat melakukan Pencarian ke semua daftar tugas/kegiatan dan filter tugas/kegiatan<br>
           - Pengguna dapat mengedit title & description<br>
@@ -31,9 +30,9 @@
           - Pengguna dapat register dan login<br>
           - Pengguna dapat melakukan upload file
         </td>
-        <td>GoLang, PostgreSQL.</td>
-        <td>Architecture2</td>
-        <td>[Link](#)</td>
+        <td style="width: 1000px">GoLang, PostgreSQL.</td>
+        <td style="width: 1000px">Architecture2</td>
+        <td style="width: 1000px">[Link](#)</td>
       </tr>
       <tr>
         <td>CSV to Database</td>
@@ -45,4 +44,3 @@
       </tr>
     </table>
   </div>
-</details>
