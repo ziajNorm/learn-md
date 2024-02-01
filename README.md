@@ -1,22 +1,21 @@
   <summary><h3>BackEnd Projects:</h3></summary>
 
-  <div style="overflow-x: auto; width: 100%; margin-top: 20px;">
-    <table>
+<table>
       <tr>
-        <th align="center" width="10000">Projects Name</th>
-        <th align="center" width="10000">Project Description</th>
-        <th align="center" width="10000">Features</th>
-        <th align="center" width="10000">Built With</th>
-        <th align="center" width="10000">Architecture</th>
-        <th align="center" width="10000">Source Code</th>
+        <th>Projects Name</th>
+        <th>Project Description</th>
+        <th>Features</th>
+        <th>Built With</th>
+        <th>Architecture</th>
+        <th>Source Code</th>
       </tr>
       <tr>
-        <td>E-Wallets</td>
-        <td>An E-wallet app designed to simplify your financial transactions.</td>
-        <td>Feature1</td>
-        <td>GoLang, JSON Web Token, Bcrypt GoLang, PostgreSQL.</td>
-        <td>Architecture1</td>
-        <td>[Link](#)</td>
+        <td align="center" width="300">E-Wallets</td>
+        <td align="center" width="500">An E-wallet app designed to simplify your financial transactions.</td>
+        <td align="center" width="600">Feature1</td>
+        <td align="center" width="400">GoLang, JSON Web Token, Bcrypt GoLang, PostgreSQL.</td>
+        <td align="center" width="300">Architecture1</td>
+        <td align="center" width="300">[Link](#)</td>
       </tr>
       <tr>
         <td>TodoLists</td>
@@ -42,5 +41,4 @@
         <td>Architecture3</td>
         <td>[Link](#)</td>
       </tr>
-    </table>
-  </div>
+</table>
