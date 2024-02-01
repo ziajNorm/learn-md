@@ -1,7 +1,12 @@
-<div style="overflow-x:auto;">
+<details>
+  <summary>Click to expand table</summary>
 
-| Project Name | Project Description                | Features                                    | Built With                                           | Architecture                    | Demo                                    |
-  |--------------|------------------------------------|---------------------------------------------|------------------------------------------------------|---------------------------------|-----------------------------------------|
-| Your Project | Brief description of your project. | - Feature 1<br> - Feature 2<br> - Feature 3 | - Technology 1<br> - Technology 2<br> - Technology 3 | MVC Architecture (or any other) | [Live Demo](https://your-demo-link.com) |
+  <div style="overflow-x:auto;">
 
-</div>
+  | Project Name | Project Description | Features | Built With | Architecture | Demo |
+  |--------------|---------------------|----------|------------|--------------|------|
+  | Your Project | Brief description of your project. | - Feature 1<br> - Feature 2<br> - Feature 3 | - Technology 1<br> - Technology 2<br> - Technology 3 | MVC Architecture (or any other) | [Live Demo](https://your-demo-link.com) |
+
+  </div>
+
+</details>
