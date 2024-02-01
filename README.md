@@ -2,12 +2,12 @@
 <div style="overflow-x: scroll; width: 100%;">
 <table>
       <tr>
-        <th>Projects Name</th>
-        <th>Project Description</th>
-        <th>Features</th>
-        <th>Built With</th>
-        <th>Architecture</th>
-        <th>Source Code</th>
+        <th align="center" width="300">Projects Name</th>
+        <th align="center" width="500">Project Description</th>
+        <th align="center" width="600">Features</th>
+        <th align="center" width="400">Built With</th>
+        <th align="center" width="300">Architecture</th>
+        <th align="center" width="300">Source Code</th>
       </tr>
       <tr>
         <td align="center" width="300">E-Wallets</td>
