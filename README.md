@@ -1,6 +1,6 @@
   <summary><h3>BackEnd Projects:</h3></summary>
 
-  <div style="overflow-x: auto;">
+  <div style="overflow-x: scroll;">
     <table>
       <tr>
         <th>Projects Name</th>
