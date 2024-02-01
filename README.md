@@ -1,7 +1,7 @@
-<details>
   <summary><h3>BackEnd Projects:</h3></summary>
+<details>
 
-  <div style="overflow-x: auto;">
+  <div style="overflow-x: auto; white-space: nowrap;">
     <table>
       <tr>
         <th style="width: 140px">Projects Name</th>
