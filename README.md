@@ -3,12 +3,12 @@
 <div style="overflow-x: auto; width: 100%">
   <table>
     <tr>
-      <th style="overflow-x: auto; width: 300px;">Projects Name</th>
-      <th>Project Description</th>
-      <th>Features</th>
-      <th>Built With</th>
-      <th>Architecture</th>
-      <th style="overflow-x: auto; width: 300px;">Source Code</th>
+      <th style="width: 100%">Projects Name</th>
+      <th style="width: 100%">Project Description</th>
+      <th style="width: 100%">Features</th>
+      <th style="width: 100%">Built With</th>
+      <th style="width: 100%">Architecture</th>
+      <th style="width: 100%">Source Code</th>
     </tr>
     <tr>
       <td>E-Wallets</td>
