@@ -1,14 +1,14 @@
 <summary><h3>BackEnd Projects:</h3></summary>
 
-<div style="overflow-x: auto">
+<div style="overflow-x: auto; width: 100%">
   <table>
     <tr>
-      <th style="width: 150px">Projects Name</th>
+      <th style="overflow-x: auto; width: 300px;">Projects Name</th>
       <th>Project Description</th>
       <th>Features</th>
       <th>Built With</th>
       <th>Architecture</th>
-      <th style="width: 120px">Source Code</th>
+      <th style="overflow-x: auto; width: 300px;">Source Code</th>
     </tr>
     <tr>
       <td>E-Wallets</td>
