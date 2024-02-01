@@ -1,5 +1,5 @@
   <summary><h3>BackEnd Projects:</h3></summary>
-
+<div style="overflow-x: scroll; width: 100%;">
 <table>
       <tr>
         <th>Projects Name</th>
@@ -42,3 +42,4 @@
         <td>[Link](#)</td>
       </tr>
 </table>
+</div>
